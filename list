@@ -1,0 +1,39 @@
+BDOLF – BDO Leasing and Finance
+AAF – Ambit Asset and Finance
+NTC –  Net-To-Close
+ICBS –  International Comprehensive Banking System
+FaMS – Factors Management System
+MAFS - Mitsubishi Auto Finance Services
+Automate the GL entries from different 
+
+
+for NTC
+2.1.1 Consolidate data coming from International Comprehensive Banking System, Ambit Asset and Finance and Factors Management System Application and save to Consolidator Database. 
+Generate Reports and Exception Reports in Excel format. 
+
+
+
+reca sa lad cdo
+
+CSSInterface
+AAFReportCreditInvestigation
+AAFReportTransactionWorksheet
+AgingInventory
+AutoLoan
+BDOFileWatcher
+BDOLFSP_EndofTerm
+CREDEX
+Credit Scoring Mapping ITD
+EWT
+FinancialReports
+IssueLogger
+OSSUtilityPartyPDCEnhancements
+PrincipalAndInterestAgingReport
+AAF GLInterface Docu on 07132018
+NTC Consolidator
+Ambit Plugin
+
+
+
+
+
